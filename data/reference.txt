@@ -1,0 +1,150 @@
+THEORY OF CRYSTAL STRUCTURES
+
+Dedicated to the 130th anniversary of the publication of E.S. Fedorov's study about 230 crystallographic symmetry groups
+
+The Concentration of Crystal Structures in High-Symmetry Structural Types (Stencils) As a Consequence of Crystal Dynamics
+
+Received November 10, 2020;
+
+revised February 14, 2021;
+
+accepted February 25, 2021
+
+The model of the occurrence of translational symmetry as a complex of standing plane elastic waves, forming three-dimensional lattices of their intersection nodes, is proposed based on the results of a crystallographic analysis of popular structure types.
+Criteria of crystal structure stability, characterizing the reduction of atomic degrees of freedom, are proposed taking into account the additional symmetric atomic ordering in the unit-cell volume.
+The characteristics of some highly symmetrical structures with cubic or hexagonal symmetry are compared.
+It is proposed to refer to the process of formation of stable states by creating symmetric spatial configurations, which is universal for material particles, as crystal dynamics.
+
+INTRODUCTION
+
+In 2021, we celebrate the 130th anniversary of the official publication of fundamental E.S. Fedorov's study about 230 crystallographic symmetry groups [1].
+In contrast to the studies by mathematician Schoenflies, who worked in the same field of research, according to Fedorov, the geometric space should be considered as filled with matter (atoms, the concept of which was not clear in those years) rather than an abstract configuration.
+
+The development of physics and X-ray diffraction analysis yielded hundreds of thousands of crystal structures and required generalization of this knowledge.
+Here, one should mention the important studies by Wells [2] and, e.g., studies devoted to the classification of minerals by Strunz [3], Povarennykh [4], Kostov [5], etc.
+Those and many other studies, where some particular cases were considered, show that there is a tendency making structures with different atomic compositions to aggregate into groups with close atomic configurations (structure types or some spatial stencils [6]).
+Obviously, each stencil is an energetically stable configuration of these atoms; therefore, the crystallization process should be considered as achievement of not only some symmetry but also a state with a minimum internal energy.
+The foundations of the crystallographic structural analysis were laid almost thirty years ago [7]; currently, we can speak about crystal dynamics, which considers an increase in stability due to the ordering of nodes of material particles (in contrast to thermodynamics, which claims that entropy increases, whereas the entropy of crystal structures is assumed to be zero).
+Examples of crystal structures belonging to some popular structure types [2] will be given below, and a comparative estimation of the relative stability of the proposed model of crystal-state formation will be performed [7].
+
+CRYSTALLIZATION MODEL
+
+Let us consider a crystallizing material as a medium with an inhomogeneous mass and some average modulus of elasticity, formed by interatomic interactions.
+All material particles (atoms) participate in both intrinsic thermal vibrations and motions of different types, jointly with other particles.
+During energy loss these motions are transformed to the most energy-efficient standing waves (linear harmonic vibrations).
+Recall that a standing wave is a sum of two opposite vibrations with identical amplitudes and frequencies, propagating in opposite directions.
+In the three-dimensional space, they have planes of zero amplitude (node planes, spaced by distances equal to half standing-wave length) and planes of maximum amplitude (halfway between the node planes) [8].
+The one-dimensional model (string vibrations) is presented in Fig. 1.
+
+Each standing wave orders atomic sites and shifts the heaviest atoms to the node planes with minimum kinetic energy, causing translational ordering in the direction perpendicular to the wave front.
+Atoms in different combinations (depending on their mass, size, and coordination with neighbors) loose energy (crystallization heat) and form standing waves of different directions and frequencies (waves with the highest energies correspond to halves of the wavelengths close to the shortest interatomic distances, because they correspond to the maximum atomic occupancies).
+Any three waves form a three-dimensional network of nodes (intersections of nodal planes): a translational lattice.
+It is known that standing waves do not dissipate energy.
+Currently, this explanation of the occurrence of translational symmetry (the main crystal symmetry) has no alternative.
+Incidentally, the mechanism of the occurrence of translational symmetry usually is not discussed in courses of crystallography.
+
+Each specific atom, being involved in different standing waves, cannot be located in all nodal planes; however, it is located near their intersection points (i.e., forms pseudotranslational ordering).
+This process occurs until standing waves arise, the half lengths of which become true translations for all atoms and the earlier orderings are sublattices of the true translational lattice.
+In this process, a set of atomic configurations in the crystallizing material is reduced to a repeating atomic configuration in the unit-cell volume.
+In other words, the degrees of freedom of all atoms are reduced to the number of degrees of freedom of atoms in a unit cell.
+The point-symmetry elements, grazing planes, and screw axes also limit the degrees of freedom of atoms in the unit-cell volume.
+For example, a mirror-reflection plane removes one out of three degrees of freedom of the atoms lying in it, a rotational axis removes two degrees of freedom, and a center of symmetry removes three degrees of freedom.
+This condition is also fulfilled for slip planes and screw axes.
+
+CRITERIA OF SYMMETRY-RELATED STABILITY
+
+The stability of a material is its ability to retain structure in wide temperature and pressure ranges, which depends strongly on the character of chemical interatomic bonds.
+However, when considering materials with close compositions or phases of the same material, one can propose criteria proceeding from only the crystal-structure symmetry.
+Based on the general considerations and analysis of specific structures, we will consider the fundamental volume V*, which represents the independent part of the unit-cell volume, sufficient for describing the entire structure: V* = V0/M.
+Here, M is the order of symmetry space group (set of symmetry operations in the unit cell or maximum site multiplicity in it).
+The smaller the V* value, the more stable the structure is (because the number of atomic degrees of freedom in it is minimum).
+
+The ratio of the number ns of degrees of freedom of the basic structure atoms (atomic coordinates that may change within this symmetry or all x, y, and z coordinates of the basic atoms of the structure that are not fixed by symmetry) to the number np of atoms in a primitive cell (S = ns/np) was used as the second criterion.
+The smaller the S value, the more stable the structure is (because the number of degrees of freedom in volume V* is less).
+
+The minimum V* values are expected for the cubic symmetry groups, where the M value reaches 192 (sp. gr. Fmm and its subgroups).
+In hexagonal structures, the maximum M value is 24 (P6/mmm and its subgroups).
+The S criterion is also minimum for these groups.
+In particular, it is zero for the structures of many metals, which are known as fairly stable materials (copper, iron, aluminum, their alloys, etc.).
+
+CRYSTALLOGRAPHIC ANALYSIS AS A METHOD FOR STUDYING THE MUTUAL ATOMIC ORDERING IN STRUCTURES
+
+This method is based on the fact that the mutual ordering of different combinations of structure atoms in the nodal planes of the same standing linear waves (crystallographic planes (hkl)) can be controlled using known programs for calculating the structure factors Fhkl.
+If a relatively large value of calculated factor Fhkl, obtained for one type of atoms, increases significantly when including another type in the calculation, it means that this (hkl) plane orders simultaneously both atomic types.
+When there are several planes, one can fix joint atomic sublattices in this structure by combining these planes into triads.
+Generally, cations and anions in inorganic structures are ordered over different (hkl) planes.
+However, ordering of, e.g., large Cs+, Tl+, etc. cations and O2– and S2– anions with close volumes was also proven [9].
+In this case, the reason for joint ordering is not only the achievement of a denser packing but also the higher symmetry of their joint sublattice.
+The sublattices were calculated using the special software [10].
+
+STABILITY CRITERIA V* AND S FOR THE STRUCTURES UNDER STUDY
+
+Let us describe the stability characteristics of popular structural types of cubic and hexagonal symmetry and the tendency to reduction of atomic degrees of freedom.
+These investigations were described in detail in the original studies of this cycle.
+
+We will begin with the diamond structure, whose symmetry has an advantage with respect to the packing density: only four tetrahedral voids out of eight tetrahedral and four octahedral voids of the cell in it are occupied (Fig. 2a).
+Diamond has one of the least V* values: a volume as small as 0.24 Å3 is sufficient to form its unit cell using 192 symmetry operations.
+The basic carbon atom is fixed at the origin of coordinates, and all atoms are located at the intersection sites of many sets of crystallographic planes (including the most heavily occupied {220} planes) [11].
+
+Substances with a more complex atomic composition (e.g., spinel MgAl2O4), tend to the maximum symmetry by complicating their structures.
+The spinel unit cell doubles the diamond unit-cell parameter, and there are two versions of atomic arrangement in eight octants (subcells) (Figs. 2b, 2c).
+All cations are fixed by the symmetry elements and, therefore, have no degrees of freedom. Oxygen anions are located on the ternary axes (basis atom with the ххх coordinates and one degree of freedom).
+Figure 2d shows an octant of the unit cell in the pollucite structure type (CsAlSi2O6; Iad).
+The heavy Cs cation is fixed by symmetry, the Al cation on the ternary axis has one degree of freedom, and the oxygen atoms are in the general arrangement (three degrees of freedom are not shown in Fig. 2d) [6].
+
+As can be seen in Fig. 2e, which shows a unit cell octant, only the F anion in Rb2NaAlF6 (Fmm; elpasolite structure type) has one degree of freedom (displacement along the coordinate axis).
+The structure of ring tetraphosphate (Al,V)4(P4O12)3 (I3d) (an octant of its unit cell is shown in a somewhat idealized form in Fig. 2f) may serve an example of a more complex organization.
+Only the Al cation is fixed on the ternary axis, and the phosphorus atom is at the general site (however, close to the 1/8 1/8 1/8 site) [12].
+Finally, let us consider another popular cubic structure type: the Al2Ca3(SiO4)3 garnet structure, the cation framework of which is completely fixed by symmetry and only oxygen atoms have three degrees of freedom in a 1/96th part of the unit cell (Fig. 1e).
+The values of V* and S criteria for the representatives of cubic structures are listed in Table 1.
+
+The consideration of popular structure types belonging to the hexagonal symmetry (sp. gr. P6/mmm and its subgroup with M = 24) can be started with the class of polytypes [2].
+These structures consist of alternating anion layers, containing a large cation, and cation layers, where the abundant medium cation is ordered with the large one.
+The hexagonal-structure parameter с (at almost identical parameters a) depends on the stoichiometry of large and medium cations (Fig. 3a).
+The structures of SrAl12O19 and BaFe18O27 ferrites [13] are similar to that of BaV6O11 [14].
+The ratio of the numbers of medium and large cations in them are 1 : 6, 1 : 12, and 1 : 18, respectively. The parameter c of these structures changes in dependence of the cationic ratio (Figs. 3b, 3c, 3d).
+
+Compounds with a more complex atomic composition are crystallized with larger unit cells (Table 2).
+The criteria V* and S for hexagonal structures are much larger, and it is logical to find out what factors hinder their crystallization into cubic symmetry.
+It is likely that one of these factors is the formation of stable atomic groups having a local symmetry (atypical of cubic symmetry) in the crystallizing phase.
+For example, the ВаV6O11 structure contains a fragment of two VO6 octahedra with a shared face and, therefore, shortened V–V distance and possible metal–metal interaction.
+The shared face of the VO6 octahedra stimulates the occurrence of a mirror symmetry plane (which coincides with this face) and, on the whole, this fragment is a nucleus with the 63/m local symmetry.
+This combination of symmetry elements cannot occur in cubic structures.
+
+Similar situations occur also in other above-described structures.
+Having assumed that the cubic symmetry is more stable than the hexagonal one, one can note the following interesting facts about the hexagonal structures.
+Theoretically, a hexagonal structure can be obtained by compressing or stretching a cubic structure along one out of four ternary axes.
+In reality, in the tourmaline and corundum structure types, cations and anions in the same polytypes are ordered by cubic sublattices deformed specifically in this way [11, 13, 14].
+
+CONCLUSIONS
+
+A crystal structure is determined by a compromise between the forces of local interatomic interactions (including local electrostatics) and the long-range elastic forces, which induce ordering (translational and other symmetries).
+The approach based on the first-type forces, which is referred to as crystal chemistry (although, in fact, it is stereochemistry), is dominant in the modern description of crystal structures.
+It is reasonable to refer to the approach based on the second-type forces as crystal dynamics (specifically this approach determines the characteristic features of the crystalline state of matter).
+Numerous examples are known, when materials with different atomic compositions are crystallized into structures of identical types (stencils).
+For example, to obtain the most stable stencil in the spinel structure, the larger Mg atom in it is located in the tetrahedral oxygen environment and the smaller Al atom is located in the octahedral environment.
+
+Only the most symmetric stencils of crystal structures were considered, in which the role of symmetry reducing the information about a structure (i.e., information-cell volume V*) is obvious.
+However, this tendency to an increase in stability due to the possibilities of symmetrization (reduction of the degrees of freedom of material objects of the structure) is universal, even if it is accompanied by the defect formation [9, 11].
+
+The Pauling's rules (1929), which take into account electrostatic interactions between atoms and general considerations about the minimization of structural fragments, are still used as general principles of organization of crystal structures.
+Actually, only the fifth Pauling's rule, which claims that the number of different structural groups in a crystal should be minimum, is valid for the crystalline state.
+In fact, the above-described criteria V* and S reflect the degree of validity of this rule.
+The results of crystallographic structural analysis demonstrate that the process of radical ordering of atomic configuration by symmetry operations (primarily, translational symmetry) is critical.
+The mechanism of formation of this symmetry, which was stated above from the point of view of statistical physics [15], makes it possible to calculate quantitatively the energy of crystal structures using the formalism for elastic vibrations in condensed media [8].
+We believe this approach to be a continuation of Fedorov's study of the kingdom of crystals.
+
+Fig. 1.
+One-dimensional model of string vibrations: nodes and antinodes have zero and maximum amplitudes, respectively.
+
+Fig. 2. (a) Diamond unit cell: filled and open circles correspond, respectively, to carbon atoms and unoccupied sites in the I cell with a parameter 1/2a,.
+Spinel MgAl2O4: (b) atomic arrangement in one out of four octants of the structure cell (according to the diamond law, oxygen anions center all octants of this subcell, and Mg cations are located at four vertices and at the center) and (c) atomic arrangement in four octants of the structure cell (all eight octants of the diamond subcell are centered: Al (small black circles) center four octants and O atoms center four octants). (d) CsAlSi2O6: idealized atomic arrangement over key sites in an octant of the unit cell of pollucite crystal structure (Cs cation is fixed and (Si,Al) is shifted from a similar site along the axis 3). (e) Rb2NaAlF6: an octant of the unit cell (a fragment of a chain consisting of AlF6 and NaF6 octahedra is at the origin of coordinates, faces of AlF6 octahedra are also shown at other vertices, Rb and Al are indicated by large open and filled circles, respectively). (e) (Al,V)4(P4O12)3: an octant of the unit cell with an idealized arrangement of (Al,V) and P cations, corresponding to the maximum symmetry. 
+(g) Al2Ca3(SiO4)3 garnet: cation arrangement in an octant of the cubic unit cell (icosahedral configuration of twelve Ca and Si cations, inscribed into a cube of Al cations, centered by Al). 
+The ternary axis is shown.
+(a) Projection of hexagonal structures with large (Ba, Sr) (large circles) and medium (Al, V, Fe) (small filled circles) cations on the xy plane (anions are indicated by open small circles). (b) Projection of SrAl12O19 on the yz plane and cross sections by (solid lines) the (0010) planes of the (Sr + O) sublattice and (dashed lines) the (0014) planes of the (Al + Sr) sublattice. (c) Projection of BaFe18O27 on the yz plane and cross sections by (solid lines) the (0014) planes of the (Ва + O) sublattice and (dashed lines) the (0020) planes of the Fe sublattice. (d) Projection of BaV6O11 on the yz plane (the (008) planes with (Ba + O) ordering (solid lines) and the (006) planes with (Ba + V) ordering (dotted lines) are shown partially).
+
+Table 1.
+Parameters of cubic structures
+
+Table 2.
+Parameters of hexagonal structures
